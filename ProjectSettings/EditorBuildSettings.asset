@@ -8,5 +8,41 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/00_MovementHub.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/01_HoldToMove.unity
+    guid: c3d1aaebeac75ca43aa5a2b1c3834276
+  - enabled: 1
+    path: Assets/Scenes/02_TapToJump.unity
+    guid: 00926bfcdbd9cfc4cb5e0399b07517f4
+  - enabled: 1
+    path: Assets/Scenes/03_VirtualJoystickMovement.unity
+    guid: 1e3ede2f2f8a2764898cbd2bf929bf34
+  - enabled: 1
+    path: Assets/Scenes/04_DragAnywhereMovement.unity
+    guid: ea6bdfa76c42b8f4a9e1384649d45686
+  - enabled: 1
+    path: Assets/Scenes/05_AutoRunSteering.unity
+    guid: 4b3ac186386a2294fa538d6f3dd4c034
+  - enabled: 1
+    path: Assets/Scenes/06_SwipeLaneMovement.unity
+    guid: fbd98f5ecc132a64a82770f2013eadef
+  - enabled: 1
+    path: Assets/Scenes/07_TapToMove.unity
+    guid: d7838089ea6295e4994c825c5154c7a7
+  - enabled: 1
+    path: Assets/Scenes/08_DirectDragObject.unity
+    guid: 136654520b855ba48942bb0d3801797b
+  - enabled: 1
+    path: Assets/Scenes/09_SlingshotLaunch.unity
+    guid: c9d72064fed388f4391b44e57423ef2e
+  - enabled: 1
+    path: Assets/Scenes/10_GridTileMovement.unity
+    guid: a43c03b9c25e597479c7ae694ea12fdb
+  - enabled: 1
+    path: Assets/Scenes/11_PathDrawingMovement.unity
+    guid: e83183abad9533744bcc882319c973ab
+  - enabled: 1
+    path: Assets/Scenes/12_TiltGyroMovement.unity
+    guid: ccd423b42ac28804b9d8314a9b0d46a0
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

@@ -60,13 +60,13 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
-        "*.unity": "yaml",
+        "*.unity": "yaml"
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Mobile-Movement-Lab.slnx",
+    "dotnet.defaultSolution": "Mobile Input _ Player Movement Lab.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
